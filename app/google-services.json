@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9399694006",
+    "firebase_url": "https://login-5245b-default-rtdb.firebaseio.com",
+    "project_id": "login-5245b",
+    "storage_bucket": "login-5245b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9399694006:android:79f168d4d0ef86ab8aac17",
+        "android_client_info": {
+          "package_name": "com.example.s4m4modelnoticiasapimvvmreciclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9399694006-h1p33fbg50u1sk9p2stc32qt1p7v2jva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0IMJ-r-CFD-4aqo7Hii4L6LhZydWrfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9399694006-h1p33fbg50u1sk9p2stc32qt1p7v2jva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
